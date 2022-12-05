@@ -3,7 +3,7 @@
 In this quick start example, we are going to demonstrate the basic usage of [Navigator](https://github.com/DappioWonderland/navigator) and [Gateway](https://github.com/DappioWonderland/gateway):
 
 - `simple-fetcher`: Fetch / deserialize on-chain data and instantiate pool and farms for 10+ protocols **in less than 50 lines of code**.
-- `simple-composer`: Compose a few actions into one operation (in this case, `addLiquidity` and `stake`) for Saber protocol **in less than 50 lines of code**.
+- `simple-composer`: Compose a few actions into one operation (in this case, `swap`, `addLiquidity` and `stake`) for Raydium protocol **in less than 50 lines of code**.
 
 ### Install dependencies
 

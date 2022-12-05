@@ -26,10 +26,10 @@
   resolved "https://registry.yarnpkg.com/@dappio-wonderland/gateway-idls/-/gateway-idls-0.2.7.tgz#db70d1a1e544906fcf3ae25dc31532627012e4c3"
   integrity sha512-hF6SOCIrvh320icKHkbe/QsIpKirT+WtoegEPwnfh/7OYl31TDfmGQ6MjNjiqrfGu18M3la5GKv8oMw4eKXFjA==
 
-"@dappio-wonderland/gateway@^0.2.20":
-  version "0.2.20"
-  resolved "https://registry.yarnpkg.com/@dappio-wonderland/gateway/-/gateway-0.2.20.tgz#1d86a7eb0f9f05d579610d7a2a332ece66b57342"
-  integrity sha512-7MB2RlBqJLUE/anJrHaTiXlPl894yRW80vMXp2I4Aj3ZuuwluGA+nXaJBK806COsf7k3G0KCsOmjf5BLkxspdQ==
+"@dappio-wonderland/gateway@^0.2.21":
+  version "0.2.21"
+  resolved "https://registry.yarnpkg.com/@dappio-wonderland/gateway/-/gateway-0.2.21.tgz#6faea206c9fb975a3b52ed9cad90837a5c009462"
+  integrity sha512-kEm5DdDueOdv00MIzucYgkG6M3N8D9zVROQ7JMRHzwzQ3aiI7lYYxyCH69+ewqFC0VOjQ+Thg/yr+YG3W5khaQ==
   dependencies:
     "@dappio-wonderland/gateway-idls" "^0.2.6"
     "@dappio-wonderland/navigator" "^0.2.11"
